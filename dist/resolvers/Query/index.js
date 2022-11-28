@@ -7,7 +7,6 @@ const Books_1 = __importDefault(require("./Books"));
 const Movies_1 = __importDefault(require("./Movies"));
 exports.default = {
     Query: {
-        healthcheck: () => 'Ok',
         ...Movies_1.default,
         ...Books_1.default,
     },
