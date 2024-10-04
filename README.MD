@@ -1,5 +1,7 @@
 #GraphQL App with Apollo Server
 
+#Quick example done during a workshop taught by Nico Masnovo
+
 Follow this instructions to locally run this project
 
 ### 1) Install dependencies:
